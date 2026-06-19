@@ -14,7 +14,7 @@
 
 ---
 
-I care about making DevOps and Cloud Native more accessible, and the way I do that is by showing up: organizing events, building communities, creating hands-on open source challenges, and getting on stage to talk about the things I've actually learned.
+I care about the people in Cloud Native as much as the technology. Let's connect, build and create something awesome together.
 
 ## What I'm building
 
