@@ -4,7 +4,9 @@
 
 **Developer Experience · Cloud Native · Open Source**
 
-*making cloud native a little less intimidating, one day at a time*
+*making Cloud Native a little less intimidating, one day at a time*
+
+<img src="terminal.svg" width="460">
 
 [ksick.dev](https://ksick.dev) · [offon.dev](https://offon.dev)
 
@@ -12,7 +14,7 @@
 
 ---
 
-I care about making DevOps and cloud native more accessible, and the way I do that is by showing up: organizing events, building communities, creating hands-on open source challenges, and getting on stage to talk about the things I've actually learned.
+I care about making DevOps and Cloud Native more accessible, and the way I do that is by showing up: organizing events, building communities, creating hands-on open source challenges, and getting on stage to talk about the things I've actually learned.
 
 ## What I'm building
 
@@ -28,7 +30,7 @@ A vendor-neutral open source community I've been helping build from the ground u
 
 <a href="https://www.youtube.com/watch?v=vnii6zvfvO4"><img src="https://img.youtube.com/vi/vnii6zvfvO4/maxresdefault.jpg" align="right" width="220" hspace="15" vspace="5"></a>
 
-A monthly show I co-host with [Adriana Villela](https://github.com/avillela) where we invite guests from the open source and cloud native world for honest, unscripted conversations. No slides, no polished answers. Just people talking about what's actually going on.
+A monthly show I co-host with [Adriana Villela](https://github.com/avillela) where we invite guests from the open source and Cloud Native world for honest, unscripted conversations. No slides, no polished answers. Just people talking about what's actually going on.
 
 <br clear="right">
 
@@ -51,6 +53,7 @@ Volunteered at KCD Austria in 2023, co-organized in 2024 and 2025 (when it becam
 
 ## Speaking
 
+<!-- SPEAKING_CONTENT_START -->
 I've been speaking at events since 2021 (20+ talks, from local meetups to KubeCon), mostly about platform engineering, developer experience, and Kubernetes. My favorite talks are the ones where I can be honest about tradeoffs instead of just showing the happy path.
 
 **Upcoming:**
@@ -76,6 +79,7 @@ Sep 2026<br>
 - [Global Azure Austria](https://globalazure.at/) · May 2025: *Build Their Platform, Not Yours: Empowering Developers*
 - [WTM Salzburg](https://www.meetup.com/gdg-women-techmakers-salzburg/) · Sep 2024: *Simplifying Development with Developer Platforms: A Beginner's Overview*
 - [Cloud Native Vienna](https://community.cncf.io/cloud-native-vienna/) · Jun 2024: *Finding My Passion: Kubernetes, Community, and the Joy of Developer Experience*
+<!-- SPEAKING_CONTENT_END -->
 
 → [Full list of talks and events](https://ksick.dev/#resources)
 

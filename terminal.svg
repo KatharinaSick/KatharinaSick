@@ -1,0 +1,65 @@
+<svg width="460" height="66" viewBox="0 0 460 66" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .cursor { animation: blink 1s step-start infinite; fill: #5eead4; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="460" height="66" rx="8" fill="#131420"/>
+
+  <defs>
+    <clipPath id="c1">
+      <rect x="18" y="8" height="18" width="0">
+        <animate id="t1" attributeName="width" from="0" to="163" dur="0.8s"
+          begin="0.5s; d3.end+0.6s" fill="freeze"/>
+        <animate id="d1" attributeName="width" from="163" to="0" dur="0.2s"
+          begin="t1.end+2.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="18" y="8" height="18" width="0">
+        <animate id="t2" attributeName="width" from="0" to="193" dur="0.9s"
+          begin="d1.end+0.3s" fill="freeze"/>
+        <animate id="d2" attributeName="width" from="193" to="0" dur="0.2s"
+          begin="t2.end+2.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c3">
+      <rect x="18" y="8" height="18" width="0">
+        <animate id="t3" attributeName="width" from="0" to="141" dur="0.65s"
+          begin="d2.end+0.3s" fill="freeze"/>
+        <animate id="d3" attributeName="width" from="141" to="0" dur="0.2s"
+          begin="t3.end+2.5s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- passion -->
+  <text x="18" y="23" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="12" clip-path="url(#c1)">
+    <tspan fill="#a78bfa">❯ </tspan><tspan fill="#5eead4">kubectl get passion</tspan><tspan class="cursor">_</tspan>
+  </text>
+  <text x="18" y="48" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="12" fill="#94a3b8" opacity="0">
+    Developer Experience, Platform Engineering &amp; Open Source
+    <animate attributeName="opacity" to="1" dur="0.1s" begin="t1.end+0.1s" fill="freeze"/>
+    <animate attributeName="opacity" to="0" dur="0.1s" begin="d1.begin" fill="freeze"/>
+  </text>
+
+  <!-- communities -->
+  <text x="18" y="23" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="12" clip-path="url(#c2)">
+    <tspan fill="#a78bfa">❯ </tspan><tspan fill="#5eead4">kubectl get communities</tspan><tspan class="cursor">_</tspan>
+  </text>
+  <text x="18" y="48" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="12" fill="#94a3b8" opacity="0">
+    Cloud Native Linz, OffOn &amp; All Things CNCF
+    <animate attributeName="opacity" to="1" dur="0.1s" begin="t2.end+0.1s" fill="freeze"/>
+    <animate attributeName="opacity" to="0" dur="0.1s" begin="d2.begin" fill="freeze"/>
+  </text>
+
+  <!-- fuel -->
+  <text x="18" y="23" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="12" clip-path="url(#c3)">
+    <tspan fill="#a78bfa">❯ </tspan><tspan fill="#5eead4">kubectl get fuel</tspan><tspan class="cursor">_</tspan>
+  </text>
+  <text x="18" y="48" font-family="Consolas, Menlo, Monaco, 'Courier New', monospace" font-size="12" fill="#94a3b8" opacity="0">
+    Family, Friends &amp; Energy Drinks
+    <animate attributeName="opacity" to="1" dur="0.1s" begin="t3.end+0.1s" fill="freeze"/>
+    <animate attributeName="opacity" to="0" dur="0.1s" begin="d3.begin" fill="freeze"/>
+  </text>
+</svg>
