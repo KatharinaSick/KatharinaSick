@@ -4,8 +4,6 @@
 
 **Developer Experience · Cloud Native · Open Source**
 
-*making Cloud Native a little less intimidating, one day at a time*
-
 <img src="terminal.svg" width="460">
 
 [ksick.dev](https://ksick.dev) · [offon.dev](https://offon.dev)
