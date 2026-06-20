@@ -60,21 +60,27 @@ I've been speaking at events since 2021 (20+ talks, from local meetups to KubeCo
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <strong><a href="https://www.cnsmunich.com/">CNS Munich</a></strong><br>
-Jun 2026<br>
-<em>Your Backstage, Your Problems, Your Metrics</em>
+Jun 29, 2026<br>
+<em>Your Platform Is Probably Working - You Just Can't Prove It</em> (panel)
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
+<strong><a href="https://www.cnsmunich.com/">CNS Munich</a></strong><br>
+Jun 30, 2026<br>
+<em>Your Backstage, Your Problems, Your Metrics</em><br>
+with <a href="https://t-sc.at/">Thomas</a>
+</td>
+<td align="center" width="33%">
 <strong><a href="https://www.devopsdays.at/events/devopsdays-graz-2026">DevOpsDays Graz</a></strong><br>
-Sep 2026<br>
+Sep 5, 2026<br>
 <em>Turning Platform Engineering Right Side Up: Building Better Paths for Juniors</em>
 </td>
 </tr>
 </table>
 
 **Recent:**
-- [Austrian Platform Engineering Community](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20260507-austrian-plattform-engineering-community-2026.html) · May 2026: *Your Backstage, Your Problems, Your Metrics*
+- [Austrian Platform Engineering Community](https://www.brz.gv.at/wie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20260507-austrian-plattform-engineering-community-2026.html) · May 2026: *Your Backstage, Your Problems, Your Metrics* (with [Thomas](https://t-sc.at/))
 - [Platform Engineering Linz](https://www.meetup.com/platform-engineering-linz/) · Feb 2026: *Turning Platform Engineering Right Side Up: Building Better Paths for Juniors*
 - [Global Azure Austria](https://globalazure.at/) · May 2025: *Build Their Platform, Not Yours: Empowering Developers*
 - [WTM Salzburg](https://www.meetup.com/gdg-women-techmakers-salzburg/) · Sep 2024: *Simplifying Development with Developer Platforms: A Beginner's Overview*
